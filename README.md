@@ -34,7 +34,7 @@
 
 ## skin renderer
 
-- https://github.com/swarfeya/teeworlds-library-ts
+- https://github.com/swarfeya/render-teeworlds-skin-api
 - https://teedata.net/api/skin/render/name/greensward
 - https://github.com/tee-community/tee-skin-renderer
 - https://github.com/edg-l/teerender
