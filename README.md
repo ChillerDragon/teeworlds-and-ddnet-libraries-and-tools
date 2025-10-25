@@ -37,6 +37,7 @@
 
 - https://github.com/swarfeya/render-teeworlds-skin-api
 - https://teedata.net/api/skin/render/name/greensward
+- https://github.com/AlexIsTheGuy/TeeAssembler-2.0
 - https://github.com/tee-community/tee-skin-renderer
 - https://github.com/edg-l/teerender
 
