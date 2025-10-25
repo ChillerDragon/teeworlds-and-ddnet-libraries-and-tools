@@ -9,6 +9,7 @@
 
 - https://github.com/swarfeya/teeworlds-library-ts
 - https://gitlab.com/teeworlds-network/twnet_parser
+- https://github.com/MilkeeyCat/ddnet_protocol
 - https://github.com/ChillerDragon/teeworlds_network
 - https://github.com/teeworlds-go/protocol
 - https://github.com/luluworlds/luluworlds
