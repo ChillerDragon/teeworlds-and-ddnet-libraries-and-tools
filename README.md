@@ -35,6 +35,7 @@
 - https://github.com/swarfeya/teeworlds-library-ts
 - https://teedata.net/api/skin/render/name/greensward
 - https://github.com/tee-community/tee-skin-renderer
+- https://github.com/edg-l/teerender
 
 ## physics
 
@@ -47,6 +48,16 @@
 - https://gitlab.com/Patiga/twmap
 - https://github.com/Teero888/ddnet_maploader_c99
 - https://github.com/ChillerDragon/ddnet_maploader_py
+
+## map generators
+
+- https://github.com/iMilchshake/gores-mapgen
+- https://github.com/edg-l/ddnet-map-gen
+
+## map converters
+
+- https://github.com/ChillerDragon/twmap_6to7
+- [twmap-tools](https://gitlab.com/Patiga/twmap/-/tree/master/twmap-tools?ref_type=heads)
 
 ## ddnet ghost file
 
