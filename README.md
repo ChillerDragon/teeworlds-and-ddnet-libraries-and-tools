@@ -8,6 +8,8 @@
 ## network libraries
 
 - https://github.com/swarfeya/teeworlds-library-ts
+- https://github.com/Matodor/TeeSharp
+- https://github.com/heinrich5991/libtw2/tree/master/gamenet
 - https://gitlab.com/teeworlds-network/twnet_parser
 - https://github.com/MilkeeyCat/ddnet_protocol
 - https://github.com/ChillerDragon/teeworlds_network
