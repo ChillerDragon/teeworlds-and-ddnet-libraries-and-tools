@@ -1,9 +1,10 @@
 # teeworlds and ddnet libraries and tools
 
-## similar repos
+## similar lists
 
 - https://github.com/ChillerDragon/teeworlds-headless-clients
 - https://github.com/tee-community/awesome-tee
+- https://wiki.ddnet.org/wiki/Resources/en
 
 ## network libraries
 
