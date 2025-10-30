@@ -38,6 +38,7 @@
 - https://github.com/swarfeya/render-teeworlds-skin-api
 - https://teedata.net/api/skin/render/name/greensward
 - https://github.com/AlexIsTheGuy/TeeAssembler-2.0
+- https://github.com/k-i-o/NgTeeAssembler/ (TeeAssembler 3.0 Angular 18)
 - https://github.com/tee-community/tee-skin-renderer
 - https://github.com/edg-l/teerender
 
